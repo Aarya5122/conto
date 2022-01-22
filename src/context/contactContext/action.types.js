@@ -1,0 +1,4 @@
+export const SET_LOADING = "SET_LOADING"
+export const SET_CONTACTS = "SET_CONTACTS"
+export const VIEW_CONTACT = "VIEW_CONTACT"
+export const UPDATE_CONTACT = "UPDATE_CONTACT"
